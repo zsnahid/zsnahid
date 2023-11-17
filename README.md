@@ -1,6 +1,4 @@
 - Hi, I’m Md. Zahid Sadman Nahid
-- I’m interested in open source projects
 - I’m currently a student of CSE
-- I’m looking to collaborate on beginner friendly java projects
-- How to reach me 
-- Email: nzsadman06@gmail.com 
+- I’m interested in cyber security 
+- Email: zahidsadmannahid@gmail.com 
