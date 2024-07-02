@@ -1,4 +1,4 @@
 - Hi, I’m Md. Zahid Sadman Nahid
 - I’m currently a student of CSE
-- I’m interested in cyber security 
+- I’m learning frontend web development 
 - Email: zahidsadmannahid@gmail.com 
