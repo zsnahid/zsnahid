@@ -102,7 +102,7 @@ const zahidSadman = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidsadman&theme=tokyonight&background=0B0E1A&ring=7DD3FC&fire=A78BFA&currStreakLabel=E8F4FD&sideLabels=E8F4FD&currStreakNum=7DD3FC&sideNums=7DD3FC&dates=B8D4F0&border=2D4A7A" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsnahid&theme=tokyonight&background=0B0E1A&ring=7DD3FC&fire=A78BFA&currStreakLabel=E8F4FD&sideLabels=E8F4FD&currStreakNum=7DD3FC&sideNums=7DD3FC&dates=B8D4F0&border=2D4A7A" alt="GitHub Streak" />
 </div>
 
 ---
