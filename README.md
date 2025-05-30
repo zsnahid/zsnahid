@@ -7,9 +7,9 @@
   
   <!-- Social Links -->
   <p>
-    <a href="https://linkedin.com/in/zahidsadman"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:hello@zahidsadman.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://zahidsadman.dev"><img src="https://img.shields.io/badge/-Portfolio-4A7BA7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/zahidsadmansakib"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:zahidsadmannahid@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!--     <a href="https://zahidsadman.dev"><img src="https://img.shields.io/badge/-Portfolio-4A7BA7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> -->
   </p>
   
 </div>
@@ -97,7 +97,7 @@ const zahidSadman = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidsadman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zsnahid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidsadman&layout=compact&langs_count=8&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&border_color=2D4A7A" alt="Top Languages" />
 </div>
 
