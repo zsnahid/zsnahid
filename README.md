@@ -168,7 +168,7 @@ const zahidSadman = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidsadman&theme=tokyo-night&bg_color=0B0E1A&color=E8F4FD&line=7DD3FC&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zsnahid&theme=tokyo-night&bg_color=0B0E1A&color=E8F4FD&line=7DD3FC&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
