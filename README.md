@@ -98,7 +98,7 @@ const zahidSadman = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zsnahid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidsadman&layout=compact&langs_count=8&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&border_color=2D4A7A" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsnahid&layout=compact&langs_count=8&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&border_color=2D4A7A" alt="Top Languages" />
 </div>
 
 <div align="center">
