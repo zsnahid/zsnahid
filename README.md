@@ -114,7 +114,7 @@ const zsnahid = {
 <!-- Project Cards -->
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zsnahid&repo=https://github.com/zsnahid/ph-assignment-11-client&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="E-Commerce Platform" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zsnahid&repo=task-management-system&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="Task Management System" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zsnahid&repo=https://github.com/zsnahid/PH-Assignment-10-Client&theme=tokyonight&bg_color=0B0E1A&title_color=7DD3FC&text_color=E8F4FD&icon_color=A78BFA&border_color=2D4A7A" alt="Task Management System" /></a>
 
 </div>
 
