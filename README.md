@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Zahid+Sadman+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F5B3E&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Zahid+Sadman+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
   
   <h3>🚀 Crafting Digital Experiences with Modern Technologies</h3>
   
