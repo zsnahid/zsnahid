@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 About Me
+<!-- ## 🌟 About Me
 
 ```javascript
 const zsnahid = {
@@ -45,7 +45,7 @@ const zsnahid = {
 };
 ```
 
----
+--- -->
 
 ## 🛠️ Tech Stack & Skills
 
